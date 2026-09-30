@@ -1,6 +1,6 @@
 ### Hi, I'm Gary Lau 👋
 
-Mathematically driven Data Scientist passionate about the intersection of pure mathematics (real analysis, proof-based optimization) and production machine learning. Holds a Master of IT in AI (93.2 WAM, 9× First-in-Class awards) and a BSc in Physics (Dick Makinson Prize), with proven experience developing, evaluating, and validating ML models, building AWS cloud pipelines, and engineering interactive analytics applications for pricing strategy and commercial forecasting.
+**Mathematically driven Data Scientist passionate about the intersection of pure mathematics (real analysis, proof-based optimization) and production machine learning. Holds a Master of IT in AI (93.2 WAM, 9× First-in-Class awards) and a BSc in Physics (Dick Makinson Prize), with proven experience developing, evaluating, and validating ML models, building AWS cloud pipelines, and engineering interactive analytics applications for pricing strategy and commercial forecasting.
 ---
 
 ### 🛠 Core Technical Stack
